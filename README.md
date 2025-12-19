@@ -1,17 +1,17 @@
 <h1 align="center">Hi 👋, I'm Ashmi Ambrish Jha</h1>
-<h3 align="center">🎓 Data Science Master’s @ FAU Erlangen-Nürnberg </h3><h3>Focused on AI, ML. 💡 Building data-driven, intelligent solutions. ⚙️ Python | LLM | FastAPI | Docker | RAG</h3>
+<h3 align="center">🧠 AI/ML Engineer | Data Science Master’s @ FAU | Building smart, scalable systems with Python, FastAPI, RAG & Docker.</h3>
 
 <img align="right" alt="coding" width="400" src="https://miro.medium.com/v2/resize:fit:1000/format:webp/0*5QSfVcq9XpQLVlNk.gif">
 
-- 🌱 I’m currently learning **New Technologies.**
+- 🌱 Currently exploring LLM apps, RAG pipelines & distributed systems.**
 
-- 💬 Ask me about **FastAPI, Databases & AI Technologies.**
+- 💬 Ask me about FastAPI, RAG, LLM apps, vector databases, scalable ML systems.**
 
 - 📫 How to reach me **ashmijha8@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/ashmi a jha" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ashmi a jha" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/ashmi-a-jha-160785224/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ashmi a jha" height="30" width="40" /></a>
 <a href="https://instagram.com/ashmi_jha_8" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="ashmi_jha_8" height="30" width="40" /></a>
 </p>
 
