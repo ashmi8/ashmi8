@@ -1,5 +1,7 @@
-<h1 align="center">Hi 👋, I'm Ashmi Ambrish Jha</h1>
-<h3 align="center">🧠 AI/ML Engineer | Data Science Master’s @ FAU | Building smart, scalable systems with Python, FastAPI, RAG & Docker.</h3>
+<h1 align="center">Hi 👋, I'm Ashmi</h1>
+<h3 align="center">🧠 I’m an engineer who treats problems like puzzles with hidden doors 🧩. I build LLM-powered systems 🤖, RAG pipelines 📚, and FastAPI backends ⚙️, but it’s never just about the stack — it’s about uncovering the elegant solution hidden in chaos 🌪️. Code, for me, is less a job and more a conversation with the impossible ✨, a way to bend data and logic into something that actually works ✅.
+
+I’m drawn to projects that feel slightly reckless at first glance 🚀, where the path isn’t clear and the rules keep shifting 🔄. That’s where ideas evolve 🌱, systems breathe 🌬️, and breakthroughs happen 💡. If something’s messy, complex, or screaming for a practical spark ⚡, that’s my playground — and I thrive there 🔥.</h3>
 
 <img align="right" alt="coding" width="400" src="https://miro.medium.com/v2/resize:fit:1000/format:webp/0*5QSfVcq9XpQLVlNk.gif">
 
